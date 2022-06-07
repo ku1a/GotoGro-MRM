@@ -1,0 +1,44 @@
+h1{
+    color: #49A078;
+    font-size: 50px;
+}
+#header{
+    background-color: #DCE1DE;
+    padding: 1px;
+}
+body{
+    background-color: #BCD3C0;
+}
+button{
+    background-color: #49A078;
+    border: none;
+    border-radius: 5px;
+    padding: 7.5px 15px;
+    font-size: medium;
+}
+
+input{
+    border-color: #216869;
+    background-color: #DCE1DE;
+    width: 15%;
+    padding: 2px 7px;
+}
+
+#reset{
+    background-color: #49A078;
+    border: none;
+    border-radius: 5px;
+    padding: 7.5px 15px;
+    width: 85px;
+    font-size: medium;
+}
+
+#submit{
+    background-color: #49A078;
+    border: none;
+    border-radius: 5px;
+    padding: 7.5px 15px;
+    font-size: medium;
+    width: 85px;
+    margin: 5px;
+}
